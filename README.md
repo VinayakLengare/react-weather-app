@@ -82,7 +82,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## 👨‍💻 Author
 
-Vinayak Bhajandas Lengare  
+Vinayak Lengare  
 MCA Graduate | Aspiring React Developer  
 
 GitHub: https://github.com/VinayakLengare  
